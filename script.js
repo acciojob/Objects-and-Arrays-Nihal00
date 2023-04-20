@@ -5,7 +5,7 @@ const person = {
   age: 80,
 };
 
-let team = players.length;
+let team = 0;
 let team1 = players;
 let cap1 = person;
 
